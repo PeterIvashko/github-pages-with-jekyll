@@ -1,0 +1,53 @@
+<html>
+
+<body>
+  <div id="wrapper">
+    <div class="vertical-wrapper first">
+      <h1>Understanding oficial hand signals</h1>
+      <p>In volleyball, there are usually 2 officials. The first referee directs the game from the stands, and the second referee stands opposite at the net. A whistle is blown to start and end each game. The referee first signals the error or reason for the end of the game, and then signals which team won the point. This is a compilation of signals by the accompanying hands the whistles</p>
+      <h4>Point</h4>
+      <p>Winner of the rally One finger raised on the side of the court that won the rally</p>
+      <img src="https://e7.pngegg.com/pngimages/421/928/png-clipart-volleyball-spiking-beach-volleyball-volleyball-player-hand-sport.png" />
+      <h4>Some another header</h4>
+      <p>Pointing to the area of the court where the ball landed</p>
+    </div>
+    <div class="vertical-wrapper">
+      <h4>Out of bounds</h4>
+      <p>Ball is out of bounds, outside antenna or player illegally in adjacent cout</p>
+      <h4>Touch</h4>
+      <p>Ball is out of bounds ather contacting a player</p>
+      <h4>4 contacts</h4>
+      <p>Four fingers up. You only get 3 contacts</p>
+      <h4>Carry</h4>
+      <p>Held, thrown or cared bal. Too much contact time</p>
+      <h4>Double hit</h4>
+      <p>Two fingers up. Ball contacted more than once by a player The block does not court</p>
+    </div>
+    <div class="vertical-wrapper">
+      <h4>Begin Service</h4>
+      <p>The official indicates that the server may now serve</p>
+      <h4>Net violation</h4>
+      <p>The serve or a player touches the net</p>
+      <h4>Play over</h4>
+      <p>Two thumbs up A fault by both teams, a serve over or official's inadvertent white or mistake</p>
+      <h4>Time out</h4>
+      <p>Each team gets two 60 second time outs per game</p>
+      <h4>Over the net</h4>
+      <p>Contacting the ball before it has broken the plane of the net or before the opposition hits it</p>
+    </div>
+    <div class="vertical-wrapper">
+      <h4>Out of rotation</h4>
+      <p>At the time of service you must not overlap the person directly next to you</p>
+      <h4>Back row attack</h4>
+      <p>Attacking the ball above the net and leaving from in front of the 3 meter line</p>
+      <h4>Sanction card</h4>
+      <p>A yellow card is a waming A red card is a point Red and yellow together is an ejection</p>
+      <h4>Change sides</h4>
+      <p>Between games or hallway through a deciding game</p>
+      <h4>Game over</h4>
+      <p>Same for the end of the match</p>
+    </div>
+  </div>
+</body>
+
+</html>
